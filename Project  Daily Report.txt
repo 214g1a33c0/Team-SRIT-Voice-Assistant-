@@ -6,3 +6,17 @@ Module 3 is defines for games like random number picker,roll dice etc but we tho
 
 Problems Faced:
 The libraries are ambigous for us and their syntaxes also not understandable easily then we started executing them separatly in IDLE,Vscode.Another problem we faced is what will be the name of assistant and its bashful to expose that we taken more than 2hrs for it but and also tried different voices for them which will be suitable. Unfortunetly we failed to select name accurately but for temporary purpose we choose name " eleena " with female voice. another problem is to define works for all of us then after discussing which work will be suitable is allocated to all.
+
+Day-2 (26-03-2-2023)
+As per modules we started working, Module 2 is completed fastly and then started integration with it.
+This integration task is very harder than others and faced many problems like intendation, modules errors,excpetions,looping errors etc., Due to these we sacrifised some features because of internal logical errors which takes longer time.Then we tested code multiple times for its performance & accuracy and stored this integrated file as 1 extra copy for backup.
+Later Module 3 is  ready for integration and here we faced major problem that how to integrate this to main module. Then decided to use function calling methods from other user defined packages named as games. At first we added only 3 games later tried to add 2 more games atlast finally integrated 4 games(due to technicall errors) to main module from module 3.
+
+Big Crash of the project
+Suddenly the code not worked in main laptop which we used to integrate all. I felt that this is the project and spent many hours for solving it later I shared main code to my team members. It executed for them but not for me because of my fault experiment with the setings of them.
+
+Integration is continued with teammates and module2,module3 integrated after heavy errors which are rectified.stored this file for backup again
+
+Now final module is module1 ready for integration and this module 1 caused another disaster to the project. The problem now is that for some commands or no commands we are getting same response simply again looping or faulty error. we removed that respinse related commands but getting same response. Then we just go to backward of the project that started integration from module2.
+
+
