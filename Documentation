@@ -1,0 +1,47 @@
+This is documentation about this project. 
+
+This project is based on voice assistant and support single language " English ".This project developed based on RAD(Rapid Application Model). Hence we splitted project into 3 modules.
+Module-1 
+Document
+Module 1 defines the collection of general basic  commands like ask me a question,can you laugh etc. This is the initial and important part of the project.This  module 
+Replys for the user's questions like google assistant and includes intialization of recognizers . Browsing helped lot in collecting the general basic commands. This module took so much time to select the commands . Later after  discussing  with all our team members we finalized the commands . All the commands are used in our daily routine so,there were no major complications in this module.
+Module-2
+It defines the commands to open external sources like entertaining websites such as open youtube,open tiktok,open instagram so on... and also commands to reach online shopping websites like flipkart,myntra,Amazon etc.
+And also we provided the commands to know about the socialupdates,news,current affairs etc.
+problems Faced:
+* understanding the libraries at initial stage was tough later we started browsing to understand the libraries.
+* firstly only few websites were opened through voice assistant such as open youtube,open whatsapp etc
+* Also websites like notepad,command prompt were not opened initially as they are system apps.
+* Later we enhanced our module to open system apps like notepad and so on.
+* Library used for our module enhancement is appopener.
+* while using the library there were some complications.
+* Later we took help of browsers to get rid  of these complications.
+
+Module 3:
+Random Number or Guessing a Number :-
+ Game :-
+    The computer determines a secret number,and the player shall guess the number. For each guess,the computer tells if the number is too high or too low.
+ Implementation :- 
+    The computer draw a random number in an interval known to the player, let us say [1,100]. In a while  loop the program prompts the player for a guess, reads the guess, and checks if the guess is higher or lower than the drawn number. An appropriate message is displayed on the screen.
+
+Flipping a Coin :
+  Game:-
+         The computer determines a head or tail and the player can guess the head or tail. For each guess, the computer tells if player guess is correct or incorrect.
+Implementation:-
+         The computer chooses either Head or Tails. Head is defined as 1 and Tail is defined as 2. The player has to Guess either Head or Tail. If Computer and Player Guess is Same, the player won the game.Otherwise, the player lost the game. Thanks for playing keep playing the game.     
+         
+Rolling Dice :
+  Game:-
+            To play this game two players are required. Let us consider, Player1 and Player2. The game starts with rolling the dice.
+  Implementation:-
+            Initially player1 rolls the die, later player2 rolls the die. According to our game , if the die value of player1 is greater than player2  then the score of player1 is increased by 1. Otherwise the score of player2 is increased by 1.If the value of both players die is equal then it's a draw. In this case, score of both players remains same. Both the players have ten chances of rolling a die.Finally, the score of both players will be displayed.
+
+Quiz Game:
+   Game:-
+        The Game can be played by only one person. The game consists of four questions each with four options. The player has only one chance to answer the question.
+
+      
+      
+      
+      
+      
