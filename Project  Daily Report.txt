@@ -1,4 +1,4 @@
-Day-1
+Day-1(26-0302023)
 We team discussed which project theme have to takeup but the things we are getting ideas are just like a small programs which take less time and also minor functionalities in them. Then  we selected AI theme projects like object detector, face recognizer, voice recognizer etc., apart from these we selected " Voice Assistant " using python, Although we dont have any subject knowledge in them but we decided to split our work. Firstly we together gathered som libraries and its functionalities which will be helpful in the project. Then we selected to do this project in the way of RAPID APPLICATION model which we learnt in 2year 1st Sem from Software Engineering Subject. so we divided 3 modules. 
 Module 1 is defines main of the project it includes initalizations of recognizers,wishing to user(which we decide to add at last), general basic commands(like hai,how are you)
 Module 2 is defines for Commands to open external sources like Open Beehacks, Open SRIT,etc we added more than 20 popular sites also and this module also include some system commands like Sleep,Shutdown,Change background(changes wallpaper background)
