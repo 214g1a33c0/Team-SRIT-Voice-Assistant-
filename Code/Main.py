@@ -3,6 +3,7 @@ import speech_recognition as sr
 import webbrowser
 from AppOpener import open,mklist,give_appnames
 import datetime
+import games
 
 speech = pyttsx3.init()
 voices = speech.getProperty('voices')
@@ -142,7 +143,7 @@ while True:
          webbrowser.open("beehacks.club")
     elif "wikipedia" in query:
          webbrowser.open("wikipedia.com")
-    elif 'Tell about yourself' in query:
+    elif 'tell about yourself' in query:
          tell(' i am aleena and i just found what i have been searching for,someone who asks my help let me know how can i help you')
     elif 'what is your hometown' in query:
          tell("i live right here in your device")
@@ -167,7 +168,7 @@ while True:
     elif 'Good night' in query:
          tell("sorry i am still not getting the time")
     elif 'can you tell me a joke' in query:
-         tell("what is the most shocking city in the world ..Electricity")
+         tell("what is the most shocking city in the world ......Electricity")
     elif 'can you speak in siri voice' in query:
          tell("sorry,out of respect ,i cannot imitate another assisstant.But i have another voices")
     elif 'say hi to me' in query:
@@ -226,12 +227,17 @@ while True:
           tell("i have thought of teachers has heroes,getting vital information worids youth")
     elif 'see you later aleena' in query:
           tell(" bye bye honey pie")
+    elif 'play rolling dice' in query:
+          tell("playing rolling dice")
+          games.dice()
+    elif 'play random number' in query:
+          tell("playing random number")
+          games.number()
+    elif 'toss a coin' in query:
+          tell("tossing a coin,can u guess it")
+          games.coin()
+    elif 'participate quiz' in query:
+          tell("lets play")
+          games.quiz()
         
         
-
-               
-    
-        
-        
-
-               
