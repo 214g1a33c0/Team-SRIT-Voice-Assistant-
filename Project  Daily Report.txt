@@ -19,4 +19,6 @@ Integration is continued with teammates and module2,module3 integrated after hea
 
 Now final module is module1 ready for integration and this module 1 caused another disaster to the project. The problem now is that for some commands or no commands we are getting same response simply again looping or faulty error. we removed that respinse related commands but getting same response. Then we just go to backward of the project that started integration from module2.
 
+Now we decreased number of general commands from previous to avoid errors again. So it worked well! but only thing in our mind is we done only backend because at staring we don't know exact meaning of project hence we go with these type project but tried to embbed with html.we not designed this embedding with html in our project hence we are not able to done it. However completed project completed with defined elements in designing and its satisfactoty to us.
 
+Thankyou
